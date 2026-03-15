@@ -1,2 +1,11 @@
-# AI Resume Optimizer Requirements
-# Add your Python dependencies here
+flask
+openai
+python-dotenv
+gunicorn
+paypalcheckoutsdk
+PyPDF2
+python-docx
+flask-limiter
+reportlab
+qrcode[pil]
+requests
