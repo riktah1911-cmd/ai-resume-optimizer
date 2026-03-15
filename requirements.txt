@@ -1,0 +1,2 @@
+# AI Resume Optimizer Requirements
+# Add your Python dependencies here
